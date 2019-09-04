@@ -277,3 +277,12 @@ For example, if the background color was bright yellow, the foreground should pr
 ### Music Visualizer
 
 Write a program that can visualize audio in some way.
+
+### URL Extract App
+
+Write a mobile app that lets users take a picture of some text, and will extract URLs from the picture so that users can click on them easily from their phone.
+
+### Steganographer
+
+Steganography is the practice of hiding data inside of non-secret data.
+Write a program that allows users to hide secret messages inside images.
